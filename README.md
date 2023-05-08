@@ -2,7 +2,7 @@
 Python Pygame TicTacToe
 
 ![Logo](screenshot/logo.png "TicTacToe")
-# goals
+# Goals
 This is a simple Pygame!
 The game is a part of my educational project in **_SoftUni_** course and implemented as a challenge.
 
