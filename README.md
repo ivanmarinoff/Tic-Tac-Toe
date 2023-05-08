@@ -1,5 +1,12 @@
-#                       TicTacToe
-Python Pygame TicTacToe
+#                       _TicTacToe_
+# TicTacToe - Game Rules:
+The traditional version of Tic-Tac-Toe is played on a 3×3 grid that incorporates 9 squares. 
+Players game starts (either X or O) and must play the entire game using the same mark.
+Players take turns, making only 1 mark with each turn.
+Marks can only be placed in empty squares, and once it is placed, it is permanent.
+The winner is the first player to get 3 of their marks in a straight line (the line can be positioned diagonally, vertically, or horizontally).
+The game is over when all 9 squares are filled with marks, even if none of the players have a straight line of 3 marks.
+If neither player has a straight line of 3 marks, it is considered a tie.
 
 ![Logo](screenshot/logo.png "TicTacToe")
 # Goals
